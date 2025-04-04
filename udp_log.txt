@@ -1,0 +1,102 @@
+Round-trip 0: 7.53 ms
+Round-trip 1: 1.00 ms
+Round-trip 2: 0.88 ms
+Round-trip 3: timed out (packet lost)
+Round-trip 4: 1.28 ms
+Round-trip 5: 0.88 ms
+Round-trip 6: 1.25 ms
+Round-trip 7: 1.00 ms
+Round-trip 8: 1.29 ms
+Round-trip 9: 0.00 ms
+Round-trip 10: timed out (packet lost)
+Round-trip 11: 1.19 ms
+Round-trip 12: timed out (packet lost)
+Round-trip 13: 2.10 ms
+Round-trip 14: 0.00 ms
+Round-trip 15: 1.10 ms
+Round-trip 16: 1.00 ms
+Round-trip 17: 2.55 ms
+Round-trip 18: 1.62 ms
+Round-trip 19: timed out (packet lost)
+Round-trip 20: 2.45 ms
+Round-trip 21: 0.00 ms
+Round-trip 22: timed out (packet lost)
+Round-trip 23: timed out (packet lost)
+Round-trip 24: 1.83 ms
+Round-trip 25: 1.41 ms
+Round-trip 26: 1.00 ms
+Round-trip 27: 0.98 ms
+Round-trip 28: timed out (packet lost)
+Round-trip 29: 1.74 ms
+Round-trip 30: 2.01 ms
+Round-trip 31: 1.99 ms
+Round-trip 32: 2.13 ms
+Round-trip 33: 4.46 ms
+Round-trip 34: 2.13 ms
+Round-trip 35: 3.31 ms
+Round-trip 36: 1.14 ms
+Round-trip 37: timed out (packet lost)
+Round-trip 38: 2.14 ms
+Round-trip 39: 1.38 ms
+Round-trip 40: 2.17 ms
+Round-trip 41: 2.47 ms
+Round-trip 42: 1.80 ms
+Round-trip 43: 1.94 ms
+Round-trip 44: 0.89 ms
+Round-trip 45: 1.42 ms
+Round-trip 46: 1.25 ms
+Round-trip 47: timed out (packet lost)
+Round-trip 48: 2.29 ms
+Round-trip 49: 1.00 ms
+Round-trip 50: timed out (packet lost)
+Round-trip 51: 1.88 ms
+Round-trip 52: 1.30 ms
+Round-trip 53: 1.72 ms
+Round-trip 54: 1.34 ms
+Round-trip 55: 0.00 ms
+Round-trip 56: timed out (packet lost)
+Round-trip 57: 1.57 ms
+Round-trip 58: timed out (packet lost)
+Round-trip 59: 1.00 ms
+Round-trip 60: 4.77 ms
+Round-trip 61: 1.00 ms
+Round-trip 62: 0.00 ms
+Round-trip 63: 0.00 ms
+Round-trip 64: 7.95 ms
+Round-trip 65: 0.99 ms
+Round-trip 66: 1.00 ms
+Round-trip 67: 2.10 ms
+Round-trip 68: 1.17 ms
+Round-trip 69: 2.98 ms
+Round-trip 70: 0.00 ms
+Round-trip 71: 6.91 ms
+Round-trip 72: 0.00 ms
+Round-trip 73: 1.00 ms
+Round-trip 74: 3.63 ms
+Round-trip 75: 0.00 ms
+Round-trip 76: 5.72 ms
+Round-trip 77: timed out (packet lost)
+Round-trip 78: 1.00 ms
+Round-trip 79: 1.70 ms
+Round-trip 80: timed out (packet lost)
+Round-trip 81: 1.44 ms
+Round-trip 82: 1.00 ms
+Round-trip 83: 1.99 ms
+Round-trip 84: 1.00 ms
+Round-trip 85: timed out (packet lost)
+Round-trip 86: 1.99 ms
+Round-trip 87: 1.62 ms
+Round-trip 88: 0.99 ms
+Round-trip 89: 3.40 ms
+Round-trip 90: 1.31 ms
+Round-trip 91: timed out (packet lost)
+Round-trip 92: 1.96 ms
+Round-trip 93: 1.72 ms
+Round-trip 94: 1.99 ms
+Round-trip 95: 1.88 ms
+Round-trip 96: 1.16 ms
+Round-trip 97: 2.24 ms
+Round-trip 96: 1.16 ms
+Round-trip 97: 2.24 ms
+Round-trip 98: 4.50 ms
+Round-trip 99: 1.38 ms
